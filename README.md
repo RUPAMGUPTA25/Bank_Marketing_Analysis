@@ -8,5 +8,7 @@ be subscribed or not. Find key metrics and factors and show the meaningful relat
 
 
 bankfull1.xlsx :- File is converted to xlsx format from csv format, used for conducting EDA. (Main dataset)
+
 EDA FOR BANKING DATA.ipnyb :- This ipnyb file contains the steps performed for EDA using Python libraries like Numpy and Pandas.
+
 Final_Banking_file.csv :- This csv file is generated after the EDA process and then used for visualization.
